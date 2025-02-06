@@ -1,9 +1,8 @@
 # Valerie_Komen
-*An Aspiring Data Scientist | 2X Kaggle Grandmaster*
+*An Aspiring Data Analyst 
 
 # Education
-* Masters of Science (Data Science), *Moi University*, 2016-2018
-* Bachelors of Engineering (Civil and Structural), *Moi University*, 2016-2012
+* Bachelors of Engineering (Civil and Structural), *Moi University*, 2016-2022
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 
